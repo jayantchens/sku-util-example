@@ -9377,6 +9377,11 @@ sisteransi@^1.0.4:
   resolved "https://registry.yarnpkg.com/sisteransi/-/sisteransi-1.0.5.tgz#134d681297756437cc05ca01370d3a7a571075ed"
   integrity sha512-bLGGlR1QxBcynn2d5YmDX4MGjlZvy2MRBDRNHLJ8VI6l6+9FUiyTFNJ0IveOSP0bcXgVDPRcfGqA0pjaqUpfVg==
 
+sku-util@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/sku-util/-/sku-util-1.2.0.tgz#542c69e6f9a5ca4424e3c750ab4ce7a5801cf61a"
+  integrity sha512-A8pfcjtDxHlWuyLxHl4AbdCoXVeddEQjWXEMt0XBYhfM/YWE3WIck/SOOwcm8GyTrsohmjry/r83S3RmgGX4zQ==
+
 slash@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/slash/-/slash-1.0.0.tgz#c41f2f6c39fc16d1cd17ad4b5d896114ae470d55"
